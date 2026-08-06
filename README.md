@@ -130,27 +130,6 @@ man 2 close     # Close file descriptor
 
 ---
 
-## AI Usage
-
-### Specific Tasks Where AI Was Used
-
-#### **Algorithm Design and Conceptualization**
-- **What**: Discussed different approaches to the read-accumulate-extract pattern
-- **How**: Asked Claude to explain the static variable approach vs. other methods
-- **Why**: To understand trade-offs between different algorithmic strategies
-
-### What AI Did NOT Do
-
-**Write the final code**: All code was written by me; AI provided explanations and corrections  
-**Complete the project**: I implemented the logic and fixed bugs myself  
-**Think for me**: AI was a rubber duck and reference, not a solution provider  
-**Take shortcuts**: All learning objectives were personally achieved
-
-### Learning Outcomes from AI Usage
-
-**Deeper understanding**: Explaining my approach to AI solidified my comprehension  
-**Systematic debugging**: Learned structured approaches to finding and fixing bugs  **Code quality**: Understood importance of modular design and norm compliance  
-**Best practices**: Learned professional documentation and testing strategies  
 
 ## Algorithm Explanation
 
